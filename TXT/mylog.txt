@@ -21,5 +21,13 @@ ZCZC W02  30 L08 Trying to understand some scripts
 ZCZC W03  60 L10 Work on assignment of W03
 ZCZC W03 100 L02 Zoom meeting with lecturer
 ZCZC W03 120 L05 GSGS about this week's material
-ZCZC W03  60 L23 Discord: discuss abouth this week's topic
-ZCZC W03 100 L21 Youtube: Listen to music and watch some motivational videos 
+ZCZC W03  60 L23 Discord: discuss about this week's topic
+ZCZC W03 100 L21 Youtube: Listen to music and watch some motivational videos
+ZCZC W04 120 L21 Youtube: Listen to music
+ZCZC W04 100 L02 Zoom meeting with lecturer
+ZCZC W04  30 L10 Work on assignment of W03
+ZCZC W04 150 L05 GSGS about this week's material
+ZCZC W04  30 L23 Discord: discuss about this week's topic
+ZCZC W04  60 L05 GSGS OS Stuff
+ZCZC W04  30 L25 C-language: study
+ZCZC W04  30 L01 Read discussion forum
