@@ -35,3 +35,7 @@ ZCZC W05 100 L10 Work on assignment of W05
 ZCZC W05 120 L21 Youtube: Listen to music
 ZCZC W05  90 L23 Discord: discuss about this week's topic
 ZCZC W05 100 L02 Zoom meeting with lecturer
+ZCZC W06 100 L02 Zoom meeting with lecturer
+ZCZC W06 120 L21 Youtube: Listen to music
+ZCZC W06 100 L05 GSGS OS Stuff
+ZCZC W06  90 L23 Discord: discuss about this week's topic
