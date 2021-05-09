@@ -42,6 +42,11 @@ ZCZC W06  90 L23 Discord: discuss about this week's topic
 ZCZC W06 100 L10 Work on assignment of W06
 ZCZC W07 100 L02 Zoom meeting with lecturer
 ZCZC W07  90 L23 Discord: discuss about this week's topic
-ZCZC W07 120 L10 Work on assignment of W06
+ZCZC W07 120 L10 Work on assignment of W07
 ZCZC W07 180 L21 Youtube: Listen to music
 ZCZC W07 180 L05 GSGS OS Stuff
+ZCZC W08 100 L02 Zoom meeting with lecturer
+ZCZC W08 180 L10 Work on assignment of W08
+ZCZC W08 180 L21 Youtube: Listen to music
+ZCZC W08  90 L23 Discord: discuss about this week's topic
+ZCZC W08 200 L05 GSGS OS Stuff
